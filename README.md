@@ -1,4 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+Name:K.Hemanath
+Register No:212223100012
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
